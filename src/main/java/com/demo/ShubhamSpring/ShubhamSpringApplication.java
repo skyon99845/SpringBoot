@@ -1,0 +1,14 @@
+package com.demo.ShubhamSpring;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShubhamSpringApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShubhamSpringApplication.class, args);
+		System.out.print("Welcome TO DEVELOPER World");
+	}
+
+}
